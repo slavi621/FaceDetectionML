@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700009707651",
+    "project_id": "face-movement-detection",
+    "storage_bucket": "face-movement-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700009707651:android:df8dd36bd80912913d83b6",
+        "android_client_info": {
+          "package_name": "com.example.facedetectionml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700009707651-obdc7sak9rahhbonur4slki2bojkd81u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkeypEYofDdChjdLefwfFa0DZ4YXJQSVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700009707651-obdc7sak9rahhbonur4slki2bojkd81u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
